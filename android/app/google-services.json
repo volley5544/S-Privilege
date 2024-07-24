@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "680841686623",
+    "project_id": "vn-mobile-applications",
+    "storage_bucket": "vn-mobile-applications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680841686623:android:0fc0944006e7d1335ab5ea",
+        "android_client_info": {
+          "package_name": "com.srisawad.privilege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680841686623-haed1ce1g0ao7opnbm8l8vo6kospj89e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srisawad.privilege",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "680841686623-pje9318qngbh9lf62h1fiicrt3vn0s42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FgPPORzDaZeg2xnC5A8tuSRJC6CNRqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680841686623-pje9318qngbh9lf62h1fiicrt3vn0s42.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680841686623-5t766ftaibgomhp02n594875q4sknscq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srisawad.privilege"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680841686623:android:f619a01f0aee78e35ab5ea",
+        "android_client_info": {
+          "package_name": "com.srisawad.sprivilege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680841686623-20aeea2h35ftb9fjkulijegbp6kbm2ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srisawad.sprivilege",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "680841686623-pje9318qngbh9lf62h1fiicrt3vn0s42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FgPPORzDaZeg2xnC5A8tuSRJC6CNRqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680841686623-pje9318qngbh9lf62h1fiicrt3vn0s42.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680841686623-5t766ftaibgomhp02n594875q4sknscq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srisawad.privilege"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680841686623:android:31dbf05e9c3fd5f65ab5ea",
+        "android_client_info": {
+          "package_name": "com.srisawad.sprivilegeweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680841686623-b5l71ks0um4m2eo3h2bikc4uasb17vu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srisawad.sprivilegeweb",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "680841686623-pje9318qngbh9lf62h1fiicrt3vn0s42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FgPPORzDaZeg2xnC5A8tuSRJC6CNRqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680841686623-pje9318qngbh9lf62h1fiicrt3vn0s42.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680841686623-5t766ftaibgomhp02n594875q4sknscq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srisawad.privilege"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

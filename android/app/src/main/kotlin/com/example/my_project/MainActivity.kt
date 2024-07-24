@@ -1,0 +1,6 @@
+package com.srisawad.privilege
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
